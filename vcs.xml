@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/ShreyaV-05/Buffalos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/andrea-abed/cuisines_withstyle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\azhan\IdeaProjects" />
