@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="base2" type="HTML" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
